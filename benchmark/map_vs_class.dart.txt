@@ -1,0 +1,35 @@
+###########  Map vs Class Creation
+  Create Map            3.74
+  Create Class          0.86
+
+  Create Class          1.00
+  Create Map            4.36
+
+###########  Map vs Class SimpleRead
+  SimpleRead Map            0.70
+  SimpleRead Class          0.33
+
+  SimpleRead Class          1.00
+  SimpleRead Map            2.09
+
+###########  Map vs Class NestedRead
+  NestedRead Map            1.04
+  NestedRead Class          0.37
+
+  NestedRead Class          1.00
+  NestedRead Map            2.81
+
+###########  Map vs Class SimpleWrite
+  SimpleWrite Map            0.77
+  SimpleWrite Class          0.39
+
+  SimpleWrite Class          1.00
+  SimpleWrite Map            2.00
+
+###########  Map vs Class NestedWrite
+  NestedWrite Map            1.05
+  NestedWrite Class          0.40
+
+  NestedWrite Class          1.00
+  NestedWrite Map            2.66
+

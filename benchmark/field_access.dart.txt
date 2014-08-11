@@ -1,0 +1,30 @@
+###########  Field Getters
+  Read Map               0.62
+  Read Class             0.32
+  Read Property          0.71
+  Read Mirror            1.38
+  Read Closure           0.55
+  Read Custom            0.43
+
+  Read Class             1.00
+  Read Custom            1.34
+  Read Closure           1.71
+  Read Map               1.96
+  Read Property          2.24
+  Read Mirror            4.33
+
+###########  Field Setters
+  Write Map               0.70
+  Write Class             0.39
+  Write Property          0.81
+  Write Mirror            1.38
+  Write Closure           0.57
+  Write Custom            0.43
+
+  Write Class             1.00
+  Write Custom            1.11
+  Write Closure           1.45
+  Write Map               1.80
+  Write Property          2.07
+  Write Mirror            3.53
+

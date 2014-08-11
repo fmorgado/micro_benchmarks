@@ -1,0 +1,77 @@
+###########  Uint8
+  Uint8 List          0.09
+  Uint8 Data          0.13
+
+  Uint8 List          1.00
+  Uint8 Data          1.40
+
+###########  Int32
+  Int32 List          0.15
+  Int32 Data          0.89
+
+  Int32 List          1.00
+  Int32 Data          6.00
+
+###########  Uint32
+  Uint32 List          0.23
+  Uint32 Data          0.99
+
+  Uint32 List          1.00
+  Uint32 Data          4.33
+
+###########  Uint32 NoCache
+  Uint32 List NoCache          0.72
+  Uint32 Data NoCache          0.99
+
+  Uint32 List NoCache          1.00
+  Uint32 Data NoCache          1.38
+
+###########  Int64
+  Int64 List          7.82
+  Int64 Data          8.63
+
+  Int64 List          1.00
+  Int64 Data          1.10
+
+###########  Uint64
+  Uint64 List          4.09
+  Uint64 Data          5.30
+
+  Uint64 List          1.00
+  Uint64 Data          1.29
+
+###########  Uint64 NoCache
+  Uint64 List NoCache          4.67
+  Uint64 Data NoCache          5.49
+
+  Uint64 List NoCache          1.00
+  Uint64 Data NoCache          1.18
+
+###########  Float32
+  Float32 List          0.25
+  Float32 Data          1.30
+
+  Float32 List          1.00
+  Float32 Data          5.19
+
+###########  Float32 NoCache
+  Float32 List NoCache          0.71
+  Float32 Data NoCache          1.36
+
+  Float32 List NoCache          1.00
+  Float32 Data NoCache          1.91
+
+###########  Float64
+  Float64 List          0.23
+  Float64 Data          1.29
+
+  Float64 List          1.00
+  Float64 Data          5.66
+
+###########  Float64 NoCache
+  Float64 List NoCache          0.71
+  Float64 Data NoCache          1.58
+
+  Float64 List NoCache          1.00
+  Float64 Data NoCache          2.23
+
